@@ -34,3 +34,7 @@ El código está organizado en funciones y procedimientos específicos para mant
 
 **3. Registro de Pedido (con descuento automático de stock)**
 ![Registro de Pedidos]
+<img width="316" height="208" alt="image" src="https://github.com/user-attachments/assets/54da51f6-e8e9-4a40-b6d3-f81e293a583d" />
+<img width="400" height="112" alt="image" src="https://github.com/user-attachments/assets/a9c8d48e-a2f3-4cb7-9673-6cbf1b45ea28" />
+<img width="322" height="130" alt="image" src="https://github.com/user-attachments/assets/a2ba351b-0a70-4afa-8f7c-42b615a533e8" />
+
