@@ -16,12 +16,12 @@ El código está organizado en funciones y procedimientos específicos para mant
 - `mostrar_pedidos()`: Muestra el registro histórico de las ventas.
 - `eliminar_pedido()`: Cancela un pedido y, para mantener la consistencia de los datos, devuelve las unidades canceladas al inventario original.
 
-## 🛠️ Principios de Programación Aplicados
+## Principios de Programación Aplicados
 1. **Modularidad:** Separación estricta de la lógica en funciones y un bucle principal `menu_principal()`.
 2. **Estructuras de Datos:** Uso de diccionarios anidados (`{}`), lo que permite búsquedas instantáneas por ID ($O(1)$) en lugar de recorrer listas enteras, mejorando drásticamente el rendimiento.
 3. **Escalabilidad:** El sistema previene caídas mediante bloques `try-except` para evitar errores de tipeo del usuario al ingresar números (validación de entradas).
 
-## 📸 Evidencias de Ejecución (Capturas de Pantalla)
+## Evidencias de Ejecución (Capturas de Pantalla)
 
 *(Nota: Reemplaza las rutas de abajo subiendo tus propias capturas de pantalla a la carpeta de tu repositorio)*
 
