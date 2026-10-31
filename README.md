@@ -23,7 +23,8 @@ El código está organizado en funciones y procedimientos específicos para mant
 
 ## Evidencias de Ejecución (Capturas de Pantalla)
 
-*(Nota: Reemplaza las rutas de abajo subiendo tus propias capturas de pantalla a la carpeta de tu repositorio)*
+
+
 
 **1. Menú Principal y Registro de Productos**
 ![Registro de Productos]
